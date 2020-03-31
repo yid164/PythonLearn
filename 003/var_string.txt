@@ -1,0 +1,20 @@
+Python Variables and Strings
+
+Variable:
+
+1. Assign value to the variable for indicate it
+
+2. Variable number could be letters, numbers, __, but cannot be number for start
+
+3. The CAPITAL and non-capital are different variables 
+
+4. Equal sign (=) is assigning varibles value. 
+
+
+Strings:
+
+1. Could use "" or ''
+2. Original string: str=r'C:\now'
+3. Triple """a,
+			 b,
+			 c"""
